@@ -1,0 +1,7 @@
+Metadata-Version: 2.1
+Name: stock-visualizer
+Version: 0.1
+Requires-Dist: streamlit
+Requires-Dist: yfinance
+Requires-Dist: plotly
+Requires-Dist: pandas
